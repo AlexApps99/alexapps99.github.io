@@ -17,6 +17,7 @@ body {
 	transform: translateY(-50%);
 	width: 100%;
 	font-family: 'VT323', monospace;
+	background: radial-gradient(ellipse at center, rgb(18, 187, 28) 0%,rgb(0, 0, 0) 100%);
 }
 
 .head {
