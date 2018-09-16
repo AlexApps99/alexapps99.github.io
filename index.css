@@ -17,7 +17,7 @@ body {
 }
 
 .head {
-	font-size:300%;
+	font-size:400%;
 }
 
 ul {
@@ -33,6 +33,7 @@ li {
 a {
 	text-decoration: none;
 	color: #3dfd3d;
+	font-size:200%;
 }
 
 a:hover {
