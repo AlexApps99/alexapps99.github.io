@@ -14,15 +14,11 @@ body {
 	text-shadow: 0 0 16px #0f0;
 	color: #3dfd3d;
 	background: #0b3a0e;
-}
-
-.head {
-	font-size:400%;
+	font-size: 400%;
 }
 
 ul {
 	list-style-type: none;
-	margin: ;
 	padding: 50px;
 }
 
@@ -33,7 +29,7 @@ li {
 a {
 	text-decoration: none;
 	color: #3dfd3d;
-	font-size:200%;
+	font-size: 50%;
 }
 
 a:hover {
