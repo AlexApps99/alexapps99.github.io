@@ -17,11 +17,7 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://alexapps99.github.io/NerdyNights/</loc>
-		<priority>0.7</priority>
-	</url>
-	<url>
-		<loc>http://alexapps99.github.io/CurriculumVitae/</loc>
+		<loc>http://alexapps99.github.io/CV/</loc>
 		<priority>0.7</priority>
 	</url>
 </urlset>
